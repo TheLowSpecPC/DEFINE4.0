@@ -19,10 +19,10 @@ The official project submission repository for **DEFINE 4.0 — The World's Real
 
 | Name | Role | GitHub | LinkedIn |
 |------|------|--------|----------|
-| Full Name | Role | [@username](https://github.com/username) | [Profile](https://linkedin.com/in/username) |
-| Full Name | Role | [@username](https://github.com/username) | [Profile](https://linkedin.com/in/username) |
-| Full Name | Role | [@username](https://github.com/username) | [Profile](https://linkedin.com/in/username) |
-| Full Name | Role | [@username](https://github.com/username) | [Profile](https://linkedin.com/in/username) |
+| Shivani Sanyal | Frontend | [@shivanisanyal26](https://github.com/shivanisanyal26) | [Profile](https://linkedin.com/in/shivani-sanyal-142855337) |
+| Alen Roy Thomas | Backend | [@TheLowSpecPC](https://github.com/TheLowSpecPC) | [Profile](https://linkedin.com/in/alen-roy-thomas) |
+| Pavithra S S | UI/UX | [@06Pavithra](https://github.com/06Pavithra) | [Profile](https://linkedin.com/in/pavithrass06) |
+| Ronia Raju | UI/UX | [@RONIA5555555](https://github.com/RONIA5555555) | [Profile](https://linkedin.com/in/ronia-raju-a4ab6b318) |
 
 ---
 
