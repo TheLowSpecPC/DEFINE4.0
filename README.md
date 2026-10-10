@@ -8,12 +8,12 @@ The official project submission repository for **DEFINE 4.0 — The World's Real
 
 <!-- Add your project cover image below -->
 
-![Project Cover](./assets/cover.png)
+![Project Cover](./assets/ProjectCover.png)
 
 ## Team Information
 
 - **Team Name**: CodeX
-- **Track**:
+- **Track**: Design
 
 ## Team Members
 
@@ -64,9 +64,15 @@ Explain:
 
 ## Solution
 
-Explain your proposed solution and how it addresses the identified problem.
+Students struggle with learning materials scattered across multiple platforms, leading to wasted time and inefficiency. UNIFY solves this by centralizing notes, YouTube videos, GitHub repositories, and past papers into a single, intuitive platform to reduce digital clutter.   
 
-Describe the core idea, workflow, and key technologies used to build the solution.
+Workflow
+Organize: Users discover resources and save them into customized collections within their personal "My Library".   
+Learn & Assess: Students can use the "AI Study Buddy" to ask questions about uploaded PDFs, take practice quizzes, and track their study streaks
+Collaborate & Compete: Users can join subject-specific study groups to share resources and engage in gamified learning through 1v1 or group battles.  
+
+Key Technologies
+The platform's UI/UX design and interactive prototyping are developed using Figma, utilizing its components and prototype transitions to demonstrate seamless navigation and resource discovery.
 
 ---
 
@@ -74,7 +80,7 @@ Describe the core idea, workflow, and key technologies used to build the solutio
 
 ### Demo Video
 
-[Watch Project Demo](https://www.youtube.com/watch?v=VIDEO_ID)
+[Watch Project Demo](./assets/DemoVideo.mp4)
 
 > Replace `VIDEO_ID` with your YouTube video ID.
 
@@ -92,7 +98,7 @@ Describe the core idea, workflow, and key technologies used to build the solutio
 
 # Live Project
 
-[Visit Live Project](https://your-project-url.com/)
+[Visit Live Project](https://www.figma.com/design/7OTY01vbzXxLth8LtoV11u/Learning-platform-Landing-Page--Community-?node-id=0-1&t=rVNdIT6yqiMXMXyF-1)
 
 ---
 
@@ -108,37 +114,12 @@ Describe the core idea, workflow, and key technologies used to build the solutio
 | **APIs / Services** | Technologies |
 | **AI / ML** | Technologies |
 | **DevOps / Deployment** | Technologies |
-| **Other Tools** | Technologies |
-
-## System Architecture
-
-<!-- Add your architecture diagram here -->
-
-![System Architecture](./assets/architecture.png)
+| **Other Tools** | Figma |
 
 ## Key Features
 
-- Feature 1
-- Feature 2
-- Feature 3
-- Feature 4
-- Feature 5
-
----
-
-# Setup Instructions
-
-## Prerequisites
-
-Make sure the following are installed before running the project:
-
-- Requirement 1
-- Requirement 2
-- Requirement 3
-
-## Installation
-
-### 1. Clone the Repository
-
-```bash
-git clone <repository-url>
+- Centralized Resource Library
+- AI Study Assistant
+- Interactive Quizzes & Practice
+- Study Groups & Collaborative Spaces
+- My Library & Personalized Organization
